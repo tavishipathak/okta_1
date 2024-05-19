@@ -1,0 +1,2 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[4716],{44706:function(e,t,n){n.r(t);var r=n(2784),_=n(33914),a=n(50366);t.default=e=>{let{component:t}=e;if(!t)return null;const n=(0,a.Jm)(t.fieldParagraphs);return r.createElement(_.jk,{items:n},n&&n.map(((e,t)=>r.createElement(r.Fragment,{key:e.props.component.entityUuid},e))))}}}]);
+//# sourceMappingURL=dataComponents-StatsData-5399663b23d9593e5ab0.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[5647],{79563:function(e,d,r){r.r(d);var t=r(59231),s=(r(2784),r(33914));const _=e=>{let{header:d,body:r,overrideStyles:_}=e;return(0,t.tZ)("div",{className:"HeaderAndBody",sx:{..._}},d&&(0,t.tZ)("div",{className:"HeaderAndBody__header"},(0,t.tZ)("h2",null,d)),r&&(0,t.tZ)("div",{className:"HeaderAndBody__body"},(0,t.tZ)(s.ry,{content:r})))};_.defaultProps={header:void 0,body:void 0,overrideStyles:{}},d.default=_}}]);
+//# sourceMappingURL=HeaderAndBody-066a66aedcb41a729d8b.js.map

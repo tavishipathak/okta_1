@@ -1,0 +1,2 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[1804],{91724:function(r,t,e){e.r(t);var _=e(59231);t.default=r=>{let{color:t,size:e,overrideStyles:s}=r;return(0,_.tZ)("hr",{sx:{pt:"spacing0",pb:"spacing0",variant:"hr.default",...e&&{borderBottomWidth:e/16+"rem"},...t&&{color:t},...s}})}}}]);
+//# sourceMappingURL=HorizontalDivider-3a276d196d067b53defa.js.map
