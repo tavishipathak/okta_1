@@ -1,0 +1,206 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #f8f9fa;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    height: 40px;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+}
+
+.icon {
+    height: 25px;
+    margin-left: 20px;
+}
+
+.main-content {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #f0f2ff;
+}
+
+.main-content h1 {
+    font-size: 2.5em;
+    margin: 0 0 20px;
+}
+
+.main-content p {
+    font-size: 1.2em;
+    margin: 0 0 20px;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+.btn {
+    text-decoration: none;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 5px;
+    margin: 0 10px;
+    display: inline-block;
+}
+
+.btn-primary {
+    background-color: #0056e0;
+}
+
+.btn-secondary {
+    background-color: #0066ff;
+}
+
+.sub-section {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.sub-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.sub-section h2 {
+    font-size: 1.8em;
+    margin-top: 20px;
+}
+
+.sub-section p {
+    font-size: 1.1em;
+    margin: 20px 0 0;
+}
+
+.platform-section {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #f7f7f7;
+}
+
+.platform-section p {
+    font-size: 1.2em;
+}
+
+.platform-section h3 {
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+
+.stats {
+    display: flex;
+    justify-content: center;
+    margin: 30px 0;
+}
+
+.stat {
+    margin: 0 20px;
+}
+
+.stat h4 {
+    font-size: 2em;
+    margin: 0;
+}
+
+.stat-description {
+    margin: 20px 0;
+}
+
+.stat-description h4 {
+    font-size: 2em;
+    margin: 0;
+}
+
+.customer-identity-section {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.customer-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.customer-identity-section h2 {
+    font-size: 1.8em;
+    margin-top: 20px;
+}
+
+.customer-identity-section p {
+    font-size: 1.1em;
+    margin: 20px 0;
+}
+
+.btn-link {
+    text-decoration: none;
+    color: #0056e0;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.workforce-identity-section {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #f7f7f7;
+}
+
+.workforce-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.workforce-identity-section h2 {
+    font-size: 1.8em;
+    margin-top: 20px;
+}
+
+.workforce-identity-section p {
+    font-size: 1.1em;
+    margin: 20px 0;
+}
+
+.showcase-section {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.showcase-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.showcase-section h2 {
+    font-size: 1.8em;
+    margin-top: 20px;
+}
+
+.showcase-section p {
+    font-size: 1.1em;
+    margin: 20px 0;
+}
+
+.customer-feedback-section {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #f7f7f7;
+}
+
+.customer-feedback-section h2 {
+    font-size: 1.8em;
+    margin: 20px 0;
+}
